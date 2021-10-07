@@ -256,7 +256,7 @@ def untagall(update, context):
     )
 
 
-__mod_name__ = "Tagger"
+__mod_name__ = "💠 Tag 💠"
 
 __help__ = """ 
 @szrosebot🇱🇰
