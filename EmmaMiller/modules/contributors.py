@@ -18,7 +18,7 @@ async def give_cobtribs(c, m):
     await m.reply(t, disable_web_page_preview=True)
     
 __help__ = """
-@szrosebot🇱🇰
+@BotMasterOfficial
 Contributor
  ❍ /contributors : contributors using this bot  
 """
