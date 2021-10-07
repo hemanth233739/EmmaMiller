@@ -9,7 +9,7 @@
 
 from pyrogram import filters
 
-from EmmaMiller.pyrogramee.pluginshelper import admins_only, get_text
+from EmmaMiller.function.pluginshelper import admins_only, get_text
 from EmmaMiller import pbot
 
 
