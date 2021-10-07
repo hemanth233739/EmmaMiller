@@ -8,7 +8,7 @@ __help__ = """
  
 * 🔔 For Channel Music Play 🔔 *
 
-1️⃣ Make @szrosebot  admin of your channel 
+1️⃣ Make @EmmaMillerBot  admin of your channel 
 2️⃣ Send /userbotjoinchannel in linked group
 3️⃣ Now send commands in linked group 
 
@@ -50,7 +50,7 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 1) Get your channel ID.
 2) Create a group with tittle: Channel Music: your_channel_id
 3) Add bot as Channel admin with full perms
-4) Add @szrosebot to the channel as an admin.
+4) Add @EmmaMillerBot to the channel as an admin.
 5) Simply send commands in your group.
  
 * ⚫️More tools⚫️ *
@@ -64,6 +64,6 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 
 * 🤖Bot🤖 *
 
-@szrosebot
+[Emma Miller](https://t.me/EmmaMillerBot)
 """
-__mod_name__ = "VC music Play"
+__mod_name__ = "💠 M-Play 💠"
