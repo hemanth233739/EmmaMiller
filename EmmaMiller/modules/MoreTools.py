@@ -8,7 +8,7 @@ __help__ = """
  ❍ /cleanblue off : Turn bluetext cleaner off
  
  ** Send **
- ❍ /snd <Text> : Message like the bot
+ ❍ /send <Text> : Message like the bot
  
 ** Grammer **
  ❍ /t <reply> : Show grammer corrected text
@@ -27,4 +27,4 @@ __help__ = """
  ❍ /phone <tp no> : Track Phone no
  
 """
-__mod_name__ = "More Tools"
+__mod_name__ = "💠 More 💠"
