@@ -460,6 +460,6 @@ Bright, Circle, RemBG, Blur, Border, Flip, Glitch, Sticker maker and more..
 ❍ /edit [reply to image]: Open the image editor
 ❍ /rmbg [REPLY]: Revove BG of replied image/sticker.
 
-` Special credits to TroJanzHEX `
+` Special credits to [Mukesh Solanki](https://t.me/mkspali) `
 """
 __mod_name__ = "💠 Editor 💠"
