@@ -18,6 +18,6 @@ __help__ = """
  ❍ /g5- (G5) SCHOLARSHIP Results 
 `Index No`
  
-'Donents.lk Bot' © @uvindbro
+'Jarvus Bot' © @Jarvis_RMCMG_Bot
 """
-__mod_name__ = "Result"
+__mod_name__ = "💠 Result 💠"
