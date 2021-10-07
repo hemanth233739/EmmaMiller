@@ -387,7 +387,7 @@ def connect_button(update, context):
         connect_chat(update, context)
 
 
-__mod_name__ = "Connection"
+__mod_name__ = "💠 Connect 💠"
 
 __help__ = """
 @szrosebot🇱🇰
