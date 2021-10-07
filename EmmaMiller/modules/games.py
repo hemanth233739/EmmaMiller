@@ -101,6 +101,7 @@ async def _(event):
             pass         
         
 __help__ = """
+ @BotMasterOfficial
  *Play Game With Emojis:*
   ❍ /dice or /dice 1 to 6 any value
   ❍ /ball or /ball 1 to 5 any value
