@@ -160,7 +160,7 @@ __help__ = """
  ❍ /hack
  ❍ /love
 """
-__mod_name__ = "💠 Animation 💠"
+__mod_name__ = "💠 Awaie 💠"
 
 KILL_HANDLER = DisableAbleCommandHandler("kill",kill)
 LOVE_HANDLER = DisableAbleCommandHandler("love", love)
