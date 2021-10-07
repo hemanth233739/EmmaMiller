@@ -154,7 +154,7 @@ def kill(update: Update, context: CallbackContext):
     msg.edit_text('⚰')
 
 __help__ = """
-@szrosebot🇱🇰
+@BotMasterOfficial
  ❍ /kill
  ❍ /bombs
  ❍ /hack
