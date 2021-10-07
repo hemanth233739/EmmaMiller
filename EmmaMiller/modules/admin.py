@@ -462,7 +462,7 @@ def adminlist(update, context):
 
 
 __help__ = """
-@szrosebot🇱🇰
+@BotMasterOfficial
  ❍ /admins*:* list of admins in the chat
 
 *Admins only:*
