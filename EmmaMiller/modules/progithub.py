@@ -52,6 +52,7 @@ async def github(_, message):
 
 
 __help__ = """
+@BotMasterOfficial
 I will give information about github profile 
  ❍ /github <username>*:* Get information about a GitHub user.
 """
