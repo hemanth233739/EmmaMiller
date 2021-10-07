@@ -1,5 +1,5 @@
 __help__ = """
-@szrosebot🇱🇰
+@BotMasterOfficial
 ** book  **
  ❍ /book  <book name > : Search any book useing this bot  
 """
