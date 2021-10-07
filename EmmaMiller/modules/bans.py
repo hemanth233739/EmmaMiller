@@ -632,7 +632,7 @@ dispatcher.add_handler(ROAR_HANDLER)
 dispatcher.add_handler(KICKME_HANDLER)
 dispatcher.add_handler(SBAN_HANDLER)
 
-__mod_name__ = "Bans"
+__mod_name__ = "💠 Ban 💠"
 __handlers__ = [
     BAN_HANDLER,
     TEMPBAN_HANDLER,
