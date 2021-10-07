@@ -128,7 +128,7 @@ __help__ = """
  ❍  /attendance :Start the attendance
  ❍  /end_attendance : End the attendance
 """
-__mod_name__ = "💠 Attendance 💠"
+__mod_name__ = "💠 Present 💠"
 
 START_ATTENDANCE = DisableAbleCommandHandler("attendance", start_attendance)
 MARK_ATTENDANCE = CallbackQueryHandler(mark_attendance, pattern="present")
