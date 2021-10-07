@@ -607,7 +607,7 @@ def __chat_settings__(chat_id, user_id):
 
 
 __help__ = """
-@szrosebot🇱🇰
+@BotMasterOfficial
  ❍ /filters*:* List all active filters saved in the chat.
 
 *Admin only:*
