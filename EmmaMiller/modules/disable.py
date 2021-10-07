@@ -340,7 +340,7 @@ if is_module_loaded(FILENAME):
     dispatcher.add_handler(TOGGLE_HANDLER)
 
     __help__ = """
-  
+  @BotMasterOfficial
     ❍ /cmds*:* check the current status of disabled commands
 
     *Admins only:*
