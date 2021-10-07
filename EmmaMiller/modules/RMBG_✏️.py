@@ -28,7 +28,7 @@ async def is_register_admin(chat, user):
 
 @register(pattern="^/rmbg")
 async def _(event):
-    HELP_STR = "use `/rmbg` as reply to a media.\nJoin my updates channel 👉 @sl_bot_zone "
+    HELP_STR = "use `/rmbg` as reply to a media.\nJoin my updates group 👉 @BotMasterOfficial "
     if event.fwd_from:
         return
     if event.is_group:
@@ -72,10 +72,10 @@ async def _(event):
             )
         end = datetime.now()
         ms = (end - start).seconds
-        await gg.edit("🤗** Background Removed in `{}` seconds **\nPowered by @szrosebot🇱🇰 \nUpdates channel 👉 @sl_bot_zone ".format(ms))
+        await gg.edit("🤗** Background Removed in `{}` seconds **\nPowered by [Emma Miller](https://t.me/EmmaMillerBot) \nUpdates Group 👉 @BotMasterOfficial ".format(ms))
     else:
         await gg.edit(
-            "remove.bg API returned Errors. Please report to @slbotzone\n`{}`\nor join 👉 @sl_bot_zone ".format(
+            "remove.bg API returned Errors. Please report to @BotMasterOfficial\n`{}`\nor join 👉 @BotMasterOfficial ".format(
                 output_file_name.content.decode("UTF-8")
             )
         )
@@ -98,7 +98,7 @@ def ReTrieveFile(input_file_name):
     return r
 
 __help__ = """
-@szrosebot🇱🇰
+@BotMasterOfficial
  ❍ /rmbg: Type in reply to a media to remove it's background
 """
 __mod_name__ = "💠 Edit 💠"
