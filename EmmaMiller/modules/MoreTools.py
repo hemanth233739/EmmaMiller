@@ -1,5 +1,5 @@
 __help__ = """
-@szrosebot🇱🇰
+@BotMasterOfficial
 ** GPS **
  ❍ /gps <Place> : Show Location on a map
  
