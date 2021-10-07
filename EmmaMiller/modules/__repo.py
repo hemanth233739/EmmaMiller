@@ -5,18 +5,18 @@ from pyrogram.types import *
 from EmmaMiller.config import get_str_key
 from EmmaMiller import pbot
 
-REPO_TEXT = "**A Powerful BOT to Make Your Groups Secured and Organized ! \n\n↼ Øwñêr ⇀ : 『 @supunmabot 』\n╭──────────────\n┣─ » Python ~ 3.8.6\n┣─ » Update ~ Resently\n╰──────────────\n\n»»» @szrosebot «««"
+REPO_TEXT = "**A Powerful BOT to Make Your Groups Secured and Organized ! \n\n↼ Øwñêr ⇀ : 『 [Mukesh Solanki](https://t.me/mkspali) 』\n╭──────────────\n┣─ » Python ~ 3.8.6\n┣─ » Update ~ Resently\n╰──────────────\n\n»»» @BotMasterOfficial «««"
   
 BUTTONS = InlineKeyboardMarkup(
       [[
-        InlineKeyboardButton("Repository", url=f"https://github.com/youtubeslgeekshow/sz-rose-bot"),
-        InlineKeyboardButton("Video info ", url=f"https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA"),
+        InlineKeyboardButton("💠 Repository 💠", url=f"https://github.com/BotMasterOfficial/EmmaMiller"),
+        InlineKeyboardButton("💠 Joint 💠", url=f"https://t.me/RMCMG"),
       ],[
-        InlineKeyboardButton("𝑺𝒍 𝑩𝒐𝒕 𝒁𝒐𝒏𝒆 ", url="https://t.me/SL_bot_zone"),
-        InlineKeyboardButton("𝓢𝓛 𝓑𝓸𝓽 𝓒𝓱𝓪𝓽", url="https://t.me/slbotzone"),
+        InlineKeyboardButton("💠 Bot Master 💠", url="https://t.me/BotMaster_mkspali"),
+        InlineKeyboardButton("💠 Support 💠", url="https://t.me/BotMasterOfficial"),
       ],[
-        InlineKeyboardButton("rosebot update info", url="https://t.me/szroseupdates"),
-        InlineKeyboardButton("Developer", url="https://t.me/supunmabot"),
+        InlineKeyboardButton("💠 Emma Updats 💠", url="https://t.me/BotMasterOfficial"),
+        InlineKeyboardButton("💠 Developer 💠", url="https://t.me/mkspali"),
       ]]
     )
   
