@@ -395,7 +395,7 @@ def __chat_settings__(chat_id, user_id):
 
 
 __help__ = """
-@szrosebot🇱🇰
+@BotMasterOfficial
  You know how sometimes, people join, send 100 messages, and ruin your chat? With antiflood, that happens no more!
  Antiflood allows you to take action on users that send more than x messages in a row. Exceeding the set flood \
  will result in restricting that user.
