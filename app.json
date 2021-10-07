@@ -28,17 +28,17 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": "2014982746:AAGrxwEFbkrxpU78Ib6yquspWSsTzCujqEg"
+         "value": ""
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": "5618399"
+         "value": ""
       },      
       "BOT_ID": {
          "description": "BOT_ID",
          "required": true,
-         "value": "2014982746"
+         "value": ""
       },      
       "HEROKU_API_KEY": {
          "description": "HEROKU_API_KEY",
@@ -53,12 +53,12 @@
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": "372f9b12937f0c2a9f0dcec966add011"
+         "value": ""
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
          "required": false,
-         "value": "sqldbtype://postgres://pwdfmaewbdnpfg:ae1c844cc0769063709515dbc9a59a99faec0847676b06e1205cc523068b16ba@ec2-3-218-47-9.compute-1.amazonaws.com:5432/dc326anq31ratp"
+         "value": ""
        },
     "REM_BG_API_KEY": {
       "description": "remove.bg api (no need)",
@@ -67,7 +67,7 @@
        },
     "MONGO_DB_URI": {
       "description": "Required for database connections",
-      "value": "mongodb+srv://mytelegrambots:mytelegrambots@cluster0.78yo2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+      "value": "",
       "required": true
        },
     "VIRUS_API_KEY": {
@@ -117,7 +117,7 @@
       "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
          "required": false,
-         "value": "4tA8_mJUxa2s2wsffaN_xhzy1bDNFAFkVfvBLBCCfEAkS2VDeQhgadgo28RiAS6i"
+         "value": ""
       }, 
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
