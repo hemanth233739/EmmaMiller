@@ -114,9 +114,12 @@ BUTTONS = [
     ],
 ]
 
-TEXT = """ Hey there! My name is [Emma Miller](https://t.me/EmmaMillerBot) bot [✨](https://telegra.ph/file/b20df9de0562022dbe33a.jpg) - A powerful group management bot which can help you to manage your groups effectively as possible With   Advanced AI . 
+TEXT = """Hey there! [🙋‍♂️](https://telegra.ph/file/b20df9de0562022dbe33a.jpg)
+My name is [Emma Miller](https://t.me/EmmaMillerBot) bot ✨ - A powerful group management bot which can help you to manage your groups effectively as possible With   Advanced AI . 
 
 Click `Main menu` button for more information.
+
+Click here for all commands --> /help
 
 Join my [news channel](https://t.me/BotMasterOfficial) to get information on all the latest updates.  """
 
