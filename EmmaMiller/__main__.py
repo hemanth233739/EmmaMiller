@@ -119,6 +119,13 @@ My name is [Emma Miller](https://t.me/EmmaMillerBot) bot ✨ - A powerful group 
 
 Click `Main menu` button for more information.
 
+*Main* available commands:
+ - /start: Start the bot...
+ - /help: help....
+ - /donate: To find out more about donating!
+ - /repo: To find out the repo of this bot!
+    Note:- Fork the repo, Give Star to repo then deploy with your variables!
+
 Click here for all commands --> /help
 
 Join my [news channel](https://t.me/BotMasterOfficial) to get information on all the latest updates.  """
