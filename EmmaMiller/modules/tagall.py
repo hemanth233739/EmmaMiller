@@ -32,5 +32,6 @@ async def tagall(client, message):
 
 __mod_name__ = "💠 𝐓𝐚𝐠𝐚𝐥𝐥 💠"
 __help__ = """
+@BotMasterOfficial
 - /tagall : Tag everyone in a chat
 """
