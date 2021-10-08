@@ -11,7 +11,7 @@
 <a href="https://github.com/BotMasterOfficial/EmmaMiller/commits/mukesh"><img src="https://img.shields.io/github/last-commit/BotMasterOfficial/EmmaMiller?style=social&logo=github" />
 <a href="https://github.com/BotMasterOfficial/EmmaMiller/issues"><img src="https://img.shields.io/github/issues/BotMasterOfficial/EmmaMiller?style=social&logo=github" />
 <a href="https://perso.crans.org/besson/LICENSE.html"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=social&logo=github" />
-<a href="https://www.codacy.com/gh/BotMasterOfficial/EmmaMiller/dashboard"><img src="https://img.shields.io/codacy/grade/86799656c4824c5db08d1984b02183cd?color=gold&logo=github&style=social" />
+<a href="https://www.codacy.com/gh/BotMasterOfficial/EmmaMiller/dashboard"><img src="https://img.shields.io/codacy/grade/9afde6a66d5f4abb89331707d52b876e?color=gold&logo=github&style=social" />
 <a href="https://github.com/BotMasterOfficial/EmmaMiller/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social&logo=github" />
 <a href="https://GitHub.com/BotMasterOfficial/EmmaMiller/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained-yes-green.svg?style=social&logo=github" />
 </p>
