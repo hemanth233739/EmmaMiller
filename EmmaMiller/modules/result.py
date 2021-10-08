@@ -1,6 +1,6 @@
   
 __help__ = """
-@szrosebot🇱🇰
+@BotMasterOfficial
 **You can find out your exam results very quickly through me.**
 
  What does I Know 
