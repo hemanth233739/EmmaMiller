@@ -567,7 +567,7 @@ def get_help(update, context):
                     [
                         InlineKeyboardButton(
                             text="Click me for help!",
-                            url="https://t.me/szrosebot",
+                            url="https://t.me/EmmaMillerBot",
                         )
                     ],
                 ]
