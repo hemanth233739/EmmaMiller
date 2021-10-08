@@ -154,7 +154,7 @@ file_helpo = file_help.replace("_", " ")
 
 
 __help__ = """
-@szrosebot🇱🇰
+@BotMasterOfficial
  ❍ /logo text :  Create your logo with your name
  ❍ /wlogo text :  Create your logo with your name
  ❍ /pandalogo :  Create your logo with your name
