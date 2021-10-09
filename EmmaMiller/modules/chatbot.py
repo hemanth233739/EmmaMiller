@@ -3,12 +3,12 @@ import re
 import os
 import html
 import requests
-import TGNRobot.modules.sql.chatbot_sql as sql
+import EmmaMiller.modules.sql.chatbot_sql as sql
 
 from time import sleep
 from telegram import ParseMode
-from TGNRobot import dispatcher, updater, SUPPORT_CHAT
-from TGNRobot.modules.log_channel import gloggable
+from EmmaMiller import dispatcher, updater, SUPPORT_CHAT
+from EmmaMiller.modules.log_channel import gloggable
 from telegram import (CallbackQuery, Chat, MessageEntity, InlineKeyboardButton,
                       InlineKeyboardMarkup, Message, ParseMode, Update, Bot, User)
 
@@ -18,8 +18,8 @@ from telegram.ext import (CallbackContext, CallbackQueryHandler, CommandHandler,
 
 from telegram.error import BadRequest, RetryAfter, Unauthorized
 
-from TGNRobot.modules.helper_funcs.filters import CustomFilters
-from TGNRobot.modules.helper_funcs.chat_status import user_admin, user_admin_no_reply
+from EmmaMiller.modules.helper_funcs.filters import CustomFilters
+from EmmaMiller.modules.helper_funcs.chat_status import user_admin, user_admin_no_reply
 
 from telegram.utils.helpers import mention_html, mention_markdown, escape_markdown
 
