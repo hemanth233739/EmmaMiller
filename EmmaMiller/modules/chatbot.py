@@ -147,7 +147,7 @@ Chatbot utilizes the Kuki's api which allows Sophia to talk and provide a more i
 *Powered by ItelAi* (https://github/itelai) from @KukiUpdates
 """
 
-__mod_name__ = "💠 ChatBot 💠"
+__mod_name__ = "☠𝐂𝐡𝐚𝐭𝐁𝐨𝐭☠"
 
 
 CHATBOTK_HANDLER = CommandHandler("chatbot", kuki)
