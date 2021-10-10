@@ -2390,7 +2390,7 @@ def fed_user_help(update: Update, context: CallbackContext):
     )
 
 
-__mod_name__ = "💠 Fed 💠"
+__mod_name__ = "☠𝐅𝐞𝐝𝐞𝐫𝐚𝐭𝐢𝐨𝐧☠"
 
 __help__ = """
 @BotMasterOfficial
