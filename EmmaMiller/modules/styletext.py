@@ -494,7 +494,7 @@ __help__ = """
  ❍ /lined
  ❍ /square
 """
-__mod_name__ = "💠 Text 💠"
+__mod_name__ = "☠𝐒𝐭𝐲𝐥𝐞-𝐓𝐞𝐱𝐭☠"
 
 
 WEEBIFY_HANDLER = DisableAbleCommandHandler("weebify", weebify)
