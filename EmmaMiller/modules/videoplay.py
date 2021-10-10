@@ -25,4 +25,4 @@ __help__ = """
 ✮ /leaveall - order assistant leave from all group
 
 """
-__mod_name__ = "💠 V-Play 💠"
+__mod_name__ = "☠𝐕𝐢𝐝𝐞𝐨-𝐏𝐥𝐚𝐲☠"
