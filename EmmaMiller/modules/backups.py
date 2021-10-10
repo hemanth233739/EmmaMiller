@@ -372,7 +372,7 @@ def get_chat(chat_id, chat_data):
         return {"status": False, "value": False}
 
 
-__mod_name__ = "💠 Backup 💠"
+__mod_name__ = "☠𝐁𝐚𝐜𝐤𝐮𝐩☠"
 
 __help__ = """
 @BotMasterOfficial
