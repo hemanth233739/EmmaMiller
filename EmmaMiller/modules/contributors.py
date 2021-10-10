@@ -22,4 +22,4 @@ __help__ = """
 Contributor
  ❍ /contributors : contributors using this bot  
 """
-__mod_name__ = "💠 Contri 💠"
+__mod_name__ = "☠𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫☠"
