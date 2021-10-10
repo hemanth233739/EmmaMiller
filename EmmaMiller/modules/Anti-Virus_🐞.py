@@ -113,4 +113,4 @@ __help__ = """
 @BotMasterOfficial
  ❍ /scanit: Scan a file for virus (MAX SIZE = 3MB)
 """
-__mod_name__ = "💠 Virus 💠"
+__mod_name__ = "☠𝐀𝐧𝐭𝐢-𝐕𝐢𝐫𝐮𝐬☠"
