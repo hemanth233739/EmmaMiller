@@ -206,7 +206,7 @@ if is_module_loaded(FILENAME):
  
 """
 
-    __mod_name__ = "💠 Logs 💠"
+    __mod_name__ = "☠𝐋𝐨𝐠-𝐂𝐡𝐚𝐧𝐧𝐞𝐥☠"
 
     LOG_HANDLER = CommandHandler("logchannel", logging)
     SET_LOG_HANDLER = CommandHandler("setlog", setlog)
