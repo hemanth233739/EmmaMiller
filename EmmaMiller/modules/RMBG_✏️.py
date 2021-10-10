@@ -101,4 +101,4 @@ __help__ = """
 @BotMasterOfficial
  ❍ /rmbg: Type in reply to a media to remove it's background
 """
-__mod_name__ = "💠 Edit 💠"
+__mod_name__ = "☠𝐑𝐦𝐨𝐯-𝐁𝐚𝐜𝐤☠"
