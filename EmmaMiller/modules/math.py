@@ -138,7 +138,7 @@ To compute fractions, enter expressions as numerator(over)denominator. For examp
 
 """
 
-__mod_name__ = "💠 Math 💠"
+__mod_name__ = "☠𝐌𝐚𝐭𝐡𝐬☠"
 
 SIMPLIFY_HANDLER = DisableAbleCommandHandler("math", simplify)
 FACTOR_HANDLER = DisableAbleCommandHandler("factor", factor)
