@@ -89,4 +89,4 @@ __help__ = """
 @BotMasterOfficial
  ❍ /direct - get any file useing link
 """
-__mod_name__ = "💠 D-link 💠"
+__mod_name__ = "☠𝐃𝐢𝐫𝐞𝐜𝐭-𝐋𝐢𝐧𝐤☠"
