@@ -65,7 +65,7 @@ from EmmaMiller.modules.helper_funcs.readable_time import get_readable_time
 from EmmaMiller.modules.system_stats import bot_sys_stats
 
 
-PM_START_TEXT = """
+TEXT = """
 Hey there! [👋](https://telegra.ph/file/b20df9de0562022dbe33a.jpg)  
 My name is [Emma Miller](https://t.me/EmmaMillerBot) ✨
 
@@ -92,7 +92,7 @@ DONATE_STRING = """
 """
 STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
 
-BUTTONS = [
+MENU = [
     [
         InlineKeyboardButton(
             text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/EmmaMillerBot?startgroup=true"),
@@ -114,7 +114,7 @@ BUTTONS = [
     ],
 ]
 
-TEXT = """Hey there! [🙋‍♂️](https://telegra.ph/file/b20df9de0562022dbe33a.jpg)
+PM_START_TEXT = """Hey there! [🙋‍♂️](https://telegra.ph/file/b20df9de0562022dbe33a.jpg)
 My name is [Emma Miller](https://t.me/EmmaMillerBot) bot ✨ - A powerful group management bot which can help you to manage your groups effectively as possible With   Advanced AI . 
 
 Click `Main menu` button for more information.
@@ -130,7 +130,7 @@ Click here for all commands --> /help
 
 Join my [news channel](https://t.me/BotMasterOfficial) to get information on all the latest updates.  """
 
-MENU = [
+BUTTONS = [
     [
         InlineKeyboardButton(
             text="💠 Main menu 💠", callback_data="aboutmanu_back"),
