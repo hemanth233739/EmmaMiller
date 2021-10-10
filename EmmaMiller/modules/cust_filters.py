@@ -633,7 +633,7 @@ Check `/markdownhelp` to know more!
 
 """
 
-__mod_name__ = "💠 Filter 💠"
+__mod_name__ = "☠𝐅𝐢𝐥𝐭𝐞𝐫☠"
 
 FILTER_HANDLER = CommandHandler("filter", filters)
 STOP_HANDLER = CommandHandler("stop", stop_filter)
