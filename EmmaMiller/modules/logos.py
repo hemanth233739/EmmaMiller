@@ -159,4 +159,4 @@ __help__ = """
  ❍ /wlogo text :  Create your logo with your name
  ❍ /pandalogo :  Create your logo with your name
  """
-__mod_name__ = "💠 Logo 💠"
+__mod_name__ = "☠𝐋𝐨𝐠𝐨☠"
