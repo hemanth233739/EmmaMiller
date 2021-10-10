@@ -67,4 +67,4 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 
 [Emma Miller](https://t.me/EmmaMillerBot)
 """
-__mod_name__ = "💠 M-Play 💠"
+__mod_name__ = "☠𝐕𝐂 𝐏𝐥𝐚𝐲☠"
