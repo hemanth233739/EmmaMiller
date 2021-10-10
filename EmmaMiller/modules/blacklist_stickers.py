@@ -516,7 +516,7 @@ Note:
  
 """
 
-__mod_name__ = "💠 B-Sticker 💠"
+__mod_name__ = "☠𝐁-𝐒𝐭𝐢𝐜𝐤𝐞𝐫☠"
 
 BLACKLIST_STICKER_HANDLER = DisableAbleCommandHandler(
     "blsticker", blackliststicker, admin_ok=True
