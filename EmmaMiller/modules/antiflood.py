@@ -414,7 +414,7 @@ __help__ = """
  
  """
 
-__mod_name__ = "💠 Antiflood 💠"
+__mod_name__ = "☠𝐀𝐧𝐭𝐢𝐅𝐥𝐨𝐨𝐝☠"
 
 FLOOD_BAN_HANDLER = MessageHandler(
     Filters.all & ~Filters.status_update & Filters.group, check_flood
