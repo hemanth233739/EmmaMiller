@@ -20,4 +20,4 @@ __help__ = """
  
 'Jarvus Bot' © @Jarvis_RMCMG_Bot
 """
-__mod_name__ = "💠 Result 💠"
+__mod_name__ = "☠𝐑𝐞𝐬𝐮𝐥𝐭𝐬☠"
