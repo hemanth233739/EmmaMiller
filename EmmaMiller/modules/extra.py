@@ -11,4 +11,4 @@ Send the Long URL and get a Short URL Easily via [Emma Miller](https://t.me/Emma
  ❍ /short <your url> :-  you can get short url useing Emma Miller
  
 """
-__mod_name__ = "💠 Extra 💠"
+__mod_name__ = "☠𝐄𝐱𝐭𝐫𝐚☠"
