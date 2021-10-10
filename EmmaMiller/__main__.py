@@ -114,10 +114,14 @@ MENU = [
     ],
 ]
 
-PM_START_TEXT = """Hey there! [🙋‍♂️](https://telegra.ph/file/b20df9de0562022dbe33a.jpg)
-My name is [Emma Miller](https://t.me/EmmaMillerBot) bot ✨ - A powerful group management bot which can help you to manage your groups effectively as possible With   Advanced AI . 
+PM_START_TEXT = """Hey there! [👋](https://telegra.ph/file/b20df9de0562022dbe33a.jpg)  
+My name is [Emma Miller](https://t.me/EmmaMillerBot) ✨
+I can manage your  group with lots of useful features, feel free to add me to your group.
 
-Click `Main menu` button for more information.
+✨ Pọwẹrẹɗ Ɓy : @BotMasterOfficial
+✮───────────────✮
+🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [Mukesh Solanki](https://t.me/mkspali)
+✮───────────────✮
 
 *Main* available commands:
  - /start: Start the bot...
@@ -128,7 +132,7 @@ Click `Main menu` button for more information.
 
 Click here for all commands --> /help
 
-Join my [news channel](https://t.me/BotMasterOfficial) to get information on all the latest updates.  """
+Join my channel [Bot Master Official](https://t.me/BotMasterOfficial) to get information on all the latest updates.  """
 
 BUTTONS = [
     [
