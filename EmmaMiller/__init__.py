@@ -157,7 +157,7 @@ else:
     API_HASH = Config.API_HASH
 
     DB_URI = Config.SQLALCHEMY_DATABASE_URI
-    MONGO_DB_URI = Config.MONGO_DB_URI
+    MONGO_DB_URI = Config.mongodb+srv://mytelegrambots:mytelegrambots@cluster0.78yo2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
     DONATION_LINK = Config.DONATION_LINK
     LOAD = Config.LOAD
     NO_LOAD = Config.NO_LOAD
