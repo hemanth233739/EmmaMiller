@@ -3,7 +3,7 @@ import logging
 from pyrogram import Client
 
 # from pyromod import listen
-from EmmaMiller.config import TOKEN, get_int_key
+from EmmaMiller.config import get_int_key
 
 TOKEN = get_str_key("TOKEN", required=True)
 API_ID = get_int_key("API_ID", required=True)
