@@ -49,7 +49,6 @@ from EmmaMiller import (
     TOKEN,
     URL,
     WEBHOOK,
-    WHITELIST_CHATS,
     StartTime,
     dispatcher,
     pbot,
