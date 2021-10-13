@@ -17,7 +17,7 @@ class Config(object):
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = "postgress://botmaster:Mks#1#1#1@database-1.c9nhwkst5bf5.us-east-2.rds.amazonaws.com:5432/dbname"  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = "postgresql://botmaster:Mks#1#1#1@database-1.c9nhwkst5bf5.us-east-2.rds.amazonaws.com:5432/dbname"  # needed for any database modules
     REDIS_URI = " "
     MONGO_DB_URI = "mongodb+srv://mytelegrambots:mytelegrambots@cluster0.78yo2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     YOUTUBE_API_KEY = "AIzaSyAM6AKW97YVHN9gn12_MKK9SOK56dJSvho"
