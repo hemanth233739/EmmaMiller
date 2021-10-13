@@ -30,7 +30,6 @@ class Config(object):
     REDIS_URI = " "
     MONGO_DB_URI = "mongodb+srv://mytelegrambots:mytelegrambots@cluster0.78yo2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     YOUTUBE_API_KEY = "AIzaSyAM6AKW97YVHN9gn12_MKK9SOK56dJSvho"
-    WHITELIST_CHAT = "BotMasterOfficial"
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     WEBHOOK = False
