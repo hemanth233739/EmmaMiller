@@ -10,7 +10,7 @@ import time
 import psutil
 from pyrogram import filters
 
-from EmmaMiller import StartTime
+from EmmaMiller import bot_start_time
 from EmmaMiller.utils import formatter
 
 # Stats Module
