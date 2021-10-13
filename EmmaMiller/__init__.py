@@ -100,6 +100,7 @@ if ENV:
     OPENWEATHERMAP_ID = os.environ.get("OPENWEATHERMAP_ID", None)
     BOT_ID = os.environ.get("BOT_ID", None)  
     SPAMWATCH_SUPPORT_CHAT = os.environ.get("SPAMWATCH_SUPPORT_CHAT", "@SpamWatchSupport")
+    WHITELIST_CHATS = os.environ.get("WHITELIST_CHAT", "@BitMasterOfficial")
     bot_start_time = time.time()
     
     try:
@@ -173,6 +174,7 @@ else:
     SUPPORT_CHAT = Config.SUPPORT_CHAT
     SPAMWATCH_SUPPORT_CHAT = Config.SPAMWATCH_SUPPORT_CHAT
     SPAMWATCH_API = Config.SPAMWATCH_API
+    WHITELOST_CHATS = Config.WHITELIST_CHATS
     YOUTUBE_API_KEY = Config.YOUTUBE_API_KEY
     INFOPIC = Config.INFOPIC
 
