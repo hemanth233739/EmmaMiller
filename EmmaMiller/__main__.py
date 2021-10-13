@@ -49,7 +49,6 @@ from EmmaMiller import (
     TOKEN,
     URL,
     WEBHOOK,
-    StartTime,
     dispatcher,
     pbot,
     telethn,
