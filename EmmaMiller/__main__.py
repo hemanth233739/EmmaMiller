@@ -49,7 +49,7 @@ from EmmaMiller import (
     TOKEN,
     URL,
     WEBHOOK,
-    WHITELIST_CHATS,
+    SUPPORT_CHAT,
     StartTime,
     dispatcher,
     pbot,
