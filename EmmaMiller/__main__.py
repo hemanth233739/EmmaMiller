@@ -50,7 +50,7 @@ from EmmaMiller import (
     URL,
     WEBHOOK,
     SUPPORT_CHAT,
-    StartTime,
+    bot_start_time,
     dispatcher,
     pbot,
     telethn,
