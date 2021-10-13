@@ -20,6 +20,7 @@ class Config(object):
     SQLALCHEMY_DATABASE_URI = "postgress://botmaster:Mks#1#1#1@database-1.c9nhwkst5bf5.us-east-2.rds.amazonaws.com:5432/dbname"  # needed for any database modules
     REDIS_URI = " "
     MONGO_DB_URI = "mongodb+srv://mytelegrambots:mytelegrambots@cluster0.78yo2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    YOUTUBE_API_KEY = "AIzaSyAM6AKW97YVHN9gn12_MKK9SOK56dJSvho"
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     WEBHOOK = False
