@@ -7,7 +7,7 @@ import telegram.ext as tg
 from pyrogram import Client, errors
 from telethon import TelegramClient
 
-bot_start_time = time.time()
+StartTime = time.time()
 CMD_HELP = {}
 
 # enable logging
