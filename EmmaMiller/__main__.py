@@ -90,7 +90,8 @@ DONATE_STRING = """
 𝒀𝒐𝒖 𝒄𝒂𝒏 𝒅𝒐𝒏𝒂𝒕𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒐𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝒘𝒓𝒊𝒕𝒆𝒓'𝒔 𝒐𝒇 𝒕𝒉𝒆 𝑩𝒂𝒔𝒆 𝒄𝒐𝒅𝒆,
 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒕𝒉𝒆𝒎 [🇭 🇪 🇲 🇦 🇳 🇹 🇭](https://t.me/HEMANTHGAMING1K)
 """
-STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
+STICKERS = "CAACAgUAAxkBAAIBCGGjaVNmIC06MTfIeskWdllSec6qAALzAwACOakhVWD90IywfYyuIgQ", 
+           "CAACAgUAAxkBAAIBHmGjf7TAKGz-GvtX7LWwg3AjAc1YAAJbBQACy4MYVeYBcAMVRiDOIgQ"
 
 MENU = [
     [
@@ -160,7 +161,7 @@ USER_SETTINGS = {}
 GDPR = []
 
 for module_name in ALL_MODULES:
-    imported_module = importlib.import_module("EmmaMiller.modules." + module_name)
+    imported_module = importlib.import_module("AigerAkabaneBot.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
 
@@ -837,7 +838,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝖄𝖊𝖘 𝕴'𝖒 𝖆𝖑𝖎𝖛𝖊 🤭")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "[I AM ONLINE](https://telegra.ph/file/f3524d7a4151903cd6dbf.jpg)") 
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
