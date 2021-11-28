@@ -1,6 +1,5 @@
 # Copyright (C) 2021 TeamDaisyX
 
-
 # This file is part of Daisy (Telegram Bot)
 
 # This program is free software: you can redistribute it and/or modify
@@ -47,5 +46,5 @@ async def shortify(client, message):
             "https://api-ssl.bitly.com/v4/shorten", headers=header, data=payload
         ) as resp:
             data = await resp.json()
-    msg = f"**Original Url:** {url}\n\n**Shortened Url:** {data['link']}\n\n**Powered by**:-@szrosebot🇱🇰 "
+    msg = f"**Original Url:** {url}\n\n**Shortened Url:** {data['link']}\n\n**Powered by**:-@AigerAkabaneBot "
     await lel.edit(msg)
