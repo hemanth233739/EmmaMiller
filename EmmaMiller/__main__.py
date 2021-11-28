@@ -90,8 +90,7 @@ DONATE_STRING = """
 𝒀𝒐𝒖 𝒄𝒂𝒏 𝒅𝒐𝒏𝒂𝒕𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒐𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝒘𝒓𝒊𝒕𝒆𝒓'𝒔 𝒐𝒇 𝒕𝒉𝒆 𝑩𝒂𝒔𝒆 𝒄𝒐𝒅𝒆,
 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒕𝒉𝒆𝒎 [🇭 🇪 🇲 🇦 🇳 🇹 🇭](https://t.me/HEMANTHGAMING1K)
 """
-STICKERS = "CAACAgUAAxkBAAIBCGGjaVNmIC06MTfIeskWdllSec6qAALzAwACOakhVWD90IywfYyuIgQ", 
-           "CAACAgUAAxkBAAIBHmGjf7TAKGz-GvtX7LWwg3AjAc1YAAJbBQACy4MYVeYBcAMVRiDOIgQ"
+STICKERS = "CAACAgUAAxkBAAIBCGGjaVNmIC06MTfIeskWdllSec6qAALzAwACOakhVWD90IywfYyuIgQ"
 
 MENU = [
     [
