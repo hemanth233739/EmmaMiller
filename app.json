@@ -1,13 +1,13 @@
 {
-      "name": "EmmaMiller",
-      "description": "Hey there 👋 I'm Emma Miller .A Powerful, Smart And Simple Group Manager with some extra features..",
-	  "logo": "https://telegra.ph/file/012ca899d61231500b90d.jpg",
+      "name": "Aiger Akabane",
+      "description": "Hey there 👋 I'm Aiger Akabane .A Powerful, Smart And Simple Group Manager with some extra features..",
+	  "logo": "",
       "keywords": [
          "Telegram",
          "Groupmanager",
          "sz-rose-bot"
       ],   
-   "repository": "https://github.com/BotMasterOfficial/EmmaMiller",
+   "repository": "https://github.com/hemanth233739/EmmaMiller",
    "addons": [
       {
          "options": {
