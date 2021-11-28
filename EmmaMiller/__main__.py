@@ -66,14 +66,14 @@ from EmmaMiller.modules.system_stats import bot_sys_stats
 
 
 TEXT = """
-Hey there! [👋](https://telegra.ph/file/b20df9de0562022dbe33a.jpg)  
-My name is [Emma Miller](https://t.me/EmmaMillerBot) ✨
+Hey there! [👋](https://telegra.ph/file/d2931ff15cf972fb02ab2.jpg)  
+My name is [Aiger Akabane](https://t.me/AigerAkabaneBot) ✨
 
 I can manage your  group with lots of useful features, feel free to add me to your group.
 
-✨ Pọwẹrẹɗ Ɓy : @BotMasterOfficial
+✨ Pọwẹrẹɗ Ɓy : @AigerAkabaneBotsupport
 ✮───────────────✮
-🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [Mukesh Solanki](https://t.me/mkspali)
+🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [🕊💔🇭 🇪 🇲 🇦 🇳 🇹 🇭 ](https://t.me/HEMANTHGAMING1K)
 ✮───────────────✮
 """
 
@@ -88,19 +88,19 @@ HELP_STRINGS = f"""
 DONATE_STRING = """
 𝑯𝒆𝒚𝒂, 𝒈𝒍𝒂𝒅 𝒕𝒐 𝒉𝒆𝒂𝒓 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒅𝒐𝒏𝒂𝒕𝒆!
 𝒀𝒐𝒖 𝒄𝒂𝒏 𝒅𝒐𝒏𝒂𝒕𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒐𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝒘𝒓𝒊𝒕𝒆𝒓'𝒔 𝒐𝒇 𝒕𝒉𝒆 𝑩𝒂𝒔𝒆 𝒄𝒐𝒅𝒆,
-𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒕𝒉𝒆𝒎 [Mukesh Solanki](https://t.me/mkspali)
+𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒕𝒉𝒆𝒎 [🇭 🇪 🇲 🇦 🇳 🇹 🇭](https://t.me/HEMANTHGAMING1K)
 """
 STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
 
 MENU = [
     [
         InlineKeyboardButton(
-            text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/EmmaMillerBot?startgroup=true"),
+            text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/AigerAkabaneBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="💠 Bot updates 💠", url=f"https://t.me/BotMasterOfficial"),
+        InlineKeyboardButton(text="💠 Bot updates 💠", url=f"https://t.me/hgbotsupdates"),
         InlineKeyboardButton(
-            text="💠 Repo 💠", url=f"https://github.com/BotMasterOfficial/EmmaMiller"
+            text="ᴍʏ    ғʀɪᴇɴᴅ✌️ ", url=f"https://t.me/HG_FREE_BOT"
         ),
     ],
     [
@@ -114,13 +114,13 @@ MENU = [
     ],
 ]
 
-PM_START_TEXT = """Hey there! [👋](https://telegra.ph/file/b20df9de0562022dbe33a.jpg)  
-My name is [Emma Miller](https://t.me/EmmaMillerBot) ✨
+PM_START_TEXT = """Hey there! [👋](https://telegra.ph/file/d2931ff15cf972fb02ab2.jpg)  
+My name is [Aiger Akabane](https://t.me/AigerAkabaneBot) ✨
 I can manage your  group with lots of useful features, feel free to add me to your group.
 
-✨ Pọwẹrẹɗ Ɓy : @BotMasterOfficial
+✨ Pọwẹrẹɗ Ɓy : @AigerAkabaneBotsupport
 ✮───────────────✮
-🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [Mukesh Solanki](https://t.me/mkspali)
+🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : [🇭 🇪 🇲 🇦 🇳 🇹 🇭](https://t.me/HEMANTHGAMING1K)
 ✮───────────────✮
 
 *Main* available commands:
@@ -132,7 +132,7 @@ I can manage your  group with lots of useful features, feel free to add me to yo
 
 Click here for all commands --> /help
 
-Join my channel [Bot Master Official](https://t.me/BotMasterOfficial) to get information on all the latest updates.  """
+Join my channel [Bot updates](https://t.me/hgbotsupdates) to get information on all the latest updates.  """
 
 BUTTONS = [
     [
@@ -268,7 +268,7 @@ def start(update: Update, context: CallbackContext):
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Updates", url ="https://t.me/BotMasterOfficial")]],
+                [[InlineKeyboardButton(text="Updates", url ="https://t.me/hgbotsupdates")]],
             ),
         )
     
@@ -401,15 +401,15 @@ def EmmaMiller_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="💠 Bᴜɢ'ꜱ 💠", url="t.me/BotMasterOfficial"
+                            text="Support", url="t.me/AigerAkabaneBotsupport"
                         ),
                         InlineKeyboardButton(
-                            text="💠 updates️ 💠", url="t.me/BotMaster_mkspali"
+                            text="💠 updates️ 💠", url="t.me/hgbotsupdates"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="💠 Donate 💠", url="http://t.me/EmmaMillerBot?start=donate"
+                            text="💠 Donate 💠", url="http://t.me/AigerAkabaneBot?start=donate"
                         ),
                         InlineKeyboardButton(
                             text="💠 Inline search 💠", switch_inline_query_current_chat=""
@@ -457,7 +457,7 @@ def EmmaMiller_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*Let's make your group bot effective now*"
-            f"\nCongragulations, @EmmaMillerBot now ready to manage your group."
+            f"\nCongragulations, @AigerAkabaneBot now ready to manage your group."
             f"\n\n*Admin Tools*"
             f"\nBasic Admin tools help you to protect and powerup your group."
             f"\nYou can ban members, Kick members, Promote someone as admin through commands of bot."
@@ -484,18 +484,18 @@ def EmmaMiller_about_callback(update, context):
         )
     elif query.data == "aboutmanu_spamprot":
         query.message.edit_text(
-            text="* @EmmaMillerBot support chats*"
+            text="* @AigerAkabaneBot support chats*"
             "\nJoin Support Group/Channel",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="💠 Owner 💠", url="https://t.me/mkspali"),
-                    InlineKeyboardButton(text="💠 Owner group 💠", url="https://t.me/BotMasterOfficial"),
+                    InlineKeyboardButton(text="👻 Owner 🔥", url="https://t.me/HEMANTHGAMING1K"),
+                    InlineKeyboardButton(text="💠 Owner group 💠", url="https://t.me/hgbotsupportgroup"),
                  ],
                  [
-                    InlineKeyboardButton(text="💠 Sᴜᴘᴘᴏʀᴛ 💠", url="https://t.me/BotMasterOfficial"),
-                    InlineKeyboardButton(text="💠 Uᴘᴅᴀᴛᴇꜱ 💠", url="https://t.me/BotMaster_mkspali"),
+                    InlineKeyboardButton(text="💠 Sᴜᴘᴘᴏʀᴛ 💠", url="https://t.me/AigerAkabaneBotsupport"),
+                    InlineKeyboardButton(text="💠 Uᴘᴅᴀᴛᴇꜱ 💠", url="https://t.me/hgbotsupdates"),
                  ],
                  [
                     InlineKeyboardButton(text="Back", callback_data="aboutmanu_howto"),
@@ -506,7 +506,7 @@ def EmmaMiller_about_callback(update, context):
         )
     elif query.data == "aboutmanu_tac":
         query.message.edit_text(
-            text=f"* CREDITS  FOR @EmmaMillerBot DEV *\n"
+            text=f"* CREDITS  FOR @AigerAkabaneBot DEV *\n"
             f"\n Here you can find information about the bots I coded and the people who helped me create Emma Miller"
             f"\n Special credits [BotMasterOfficial](https://github.com/BotMasterOfficial/EmmaMiller)  & [Mukesh Solanki](https://t.me/mkspali)"
             f"\n Finally my special thanks to you for using this bot",
@@ -515,16 +515,16 @@ def EmmaMiller_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="💠 Bot Master 💠", url="https://t.me/BotMasterOfficial"),
-                    InlineKeyboardButton(text="💠 Mukesh Solanki 💠", url="https://t.me/mkspali"),
+                    InlineKeyboardButton(text="💠 Bot Master 💠", url="https://t.me/HEMANTHGAMING1K"),
+                    InlineKeyboardButton(text="ᴍʏ    ғʀɪᴇɴᴅ ✌️", url="https://t.me/HG_FREE_BOT"),
                  ],
                  [
-                    InlineKeyboardButton(text="💠 RMCMG Group 💠", url="https://t.me/RMCMG_Group"),
-                    InlineKeyboardButton(text="💠 RMCMG Channel 💠", url="https://t.me/RMCMG"),
+                    InlineKeyboardButton(text="🔥 Aiger Akabane Group 👻", url="https://t.me/RMCMG_Group"),
+                    InlineKeyboardButton(text="💠 HG BOTS Channel 💠", url="https://t.me/hgbotsupdates"),
                  ],
                  [
-                    InlineKeyboardButton(text="💠 Support Group 💠", url="https://t.me/BotMasterOfficial"),
-                    InlineKeyboardButton(text="💠 Jarvis 💠", url="https://t.me/Jarvis_RMCMG_Bot"),
+                    InlineKeyboardButton(text="💠 Support Group 💠", url="https://t.me/AigerAkabaneBotsupport"),
+                    InlineKeyboardButton(text="💠 ᴍʏ    ғʀɪᴇɴᴅ  💠", url="https://t.me/HG_PIKACHU_BOT"),
                  ],   
                  [
                     InlineKeyboardButton(text="Back", callback_data="aboutmanu_howto"),
@@ -571,7 +571,7 @@ def get_help(update, context):
                     [
                         InlineKeyboardButton(
                             text="Click me for help!",
-                            url="https://t.me/EmmaMillerBot",
+                            url="https://t.me/AigerAkabaneBot",
                         )
                     ],
                 ]
